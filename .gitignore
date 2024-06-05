@@ -1,0 +1,6 @@
+call_global
+call_global.o
+build/
+cs.so
+rehlds/
+ReGameDLL_CS/
